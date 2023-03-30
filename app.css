@@ -1,3 +1,22 @@
 body {
     background: rgba(251, 167, 181, 0.593);
+    font-family: "Nunito", sans-serif;
+}
+
+#mainNavbar .navbar-brand {
+    color: red;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: rgb(221, 37, 37);
+}
+
+#mainNavbar {
+    font-size: 1.5em;
+    font-weight: 100;
+
 }
